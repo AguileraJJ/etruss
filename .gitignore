@@ -12,3 +12,9 @@ web/libraries/
 
 #Ignore Drupals file Directory
 /web/sites/*/files/
+
+#Ignore hidden directories
+.lando.yml
+.DS_Store
+.editorconfig
+.gitattributes
